@@ -14,11 +14,7 @@ List of UG FYP students and their project organized by their graduation semester
 <!-- 
 Instructions for Students:
 
-1. **Project Summary (Markdown)** -- Create a file named `HXXXXXX.md` (or `Name.md` if you have no project number) in the `AY...` directory. Write a concise 1–2 paragraph summary accessible to a general audience and future students. You may include:
-   - Links to your project report, code repository, or other resources
-   - Images or diagrams to illustrate your project (you can upload them within the same directory and link to them in your markdown file)
-
-   These summaries will be publicly hosted on [minima.fit](https://minima.fit) once the site is live.
+1. **Project Summary (Markdown)** -- Create a file named `HXXXXXX.md` (or `Name.md` if you have no project number) in the `AY...` directory. These summaries will be publicly hosted on [minima.fit](https://minima.fit) once the site is live. See sample.md for an example format.
 
 2. **Project Report (PDF)** -- Upload the final version of your report as `HXXXXXX.pdf` (or `Name.pdf`) to the `AY...` directory.
 -->
